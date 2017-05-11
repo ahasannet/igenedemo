@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<regions>
+	<region>
+		<id>1</id>
+		<name>New York</name>
+		<icon>http://www.flags.net/images/smallflags/UNST0001.GIF
+		</icon>
+		<slots>1</slots>
+		<slots>2</slots>
+		<slots>3</slots>
+	</region>
+	<region>
+		<id>2</id>
+		<name>San Francisco</name>
+		<icon>http://www.flags.net/images/smallflags/UNST0001.GIF
+		</icon>
+		<slots>1</slots>
+		<slots>2</slots>
+	</region>
+	<region>
+		<id>3</id>
+		<name>Amsterdam</name>
+		<icon>http://www.flags.net/images/smallflags/NETH0001.GIF
+		</icon>
+		<slots>1</slots>
+		<slots>2</slots>
+	</region>
+	<region>
+		<id>4</id>
+		<name>Singapore</name>
+		<icon>http://www.flags.net/images/smallflags/SING0001.GIF
+		</icon>
+		<slots>1</slots>
+	</region>
+	<region>
+		<id>5</id>
+		<name>London</name>
+		<icon>http://www.flags.net/images/smallflags/UNKG0001.GIF
+		</icon>
+		<slots>1</slots>
+	</region>
+	<region>
+		<id>6</id>
+		<name>Frankfurt</name>
+		<icon>http://www.flags.net/images/smallflags/GERM0001.GIF
+		</icon>
+		<slots>1</slots>
+	</region>
+	<region>
+		<id>7</id>
+		<name>Toronto</name>
+		<icon>http://www.flags.net/images/smallflags/CANA0001.GIF
+		</icon>
+		<slots>1</slots>
+	</region>
+	<region>
+		<id>8</id>
+		<name>Bangalore</name>
+		<icon>http://www.flags.net/images/smallflags/INDA0001.GIF
+		</icon>
+		<slots>1</slots>
+	</region>
+</regions>  
+    

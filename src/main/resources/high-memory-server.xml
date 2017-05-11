@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configurations>
+	<configuration>
+		<id>3</id>
+		<currency>$</currency>
+		<monthlyRate>5</monthlyRate>
+		<hourlyRate>0.007</hourlyRate>
+		<ram>512 MB</ram>
+		<cpu>1</cpu>
+		<diskSize>20 GB</diskSize>
+		<bandwidth>1000 GB</bandwidth>
+	</configuration>
+	<configuration>
+        <id>4</id>
+        <currency>$</currency>
+        <monthlyRate>10</monthlyRate>
+        <hourlyRate>0.015</hourlyRate>
+        <ram>1 GB</ram>
+        <cpu>1</cpu>
+        <diskSize>30 GB</diskSize>
+        <bandwidth>1 TB</bandwidth>
+    </configuration>
+</configurations>  
+    

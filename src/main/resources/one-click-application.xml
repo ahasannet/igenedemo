@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<applications>
+	<application>
+		<id>1</id>
+		<name>Drupal</name>
+		<icon>https://cdn3.iconfinder.com/data/icons/social-media-2034/500/drupal-128.png</icon>
+	</application>
+	<application>
+		<id>2</id>
+		<name>Magento</name>
+		<icon>https://cdn4.iconfinder.com/data/icons/logos-3/800/magento-128.png</icon>
+	</application>
+	<application>
+		<id>3</id>
+		<name>MangoDB</name>
+		<icon>https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-128.png</icon>
+	</application>
+	<application>
+		<id>4</id>
+		<name>Node.js</name>
+		<icon>https://cdn2.iconfinder.com/data/icons/nodejs-1/128/nodejs-128.png</icon>
+	</application>
+	<application>
+		<id>5</id>
+		<name>WordPress</name>
+		<icon>https://cdn0.iconfinder.com/data/icons/global-top-brands/430/wordpress-logo-128.png</icon>
+	</application>
+</applications>
